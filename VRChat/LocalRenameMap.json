@@ -1,4 +1,48 @@
 [
+  {
+    "AssemblyName": "VRC.UI.UserEventCarousel",
+    "AssemblyFile": null,
+    "Type": null,
+    "WithMethods": [],
+    "WithOutMethods": [],
+    "Properties": [],
+    "WithFields": [
+      "_gestureOnIcon",
+      "hudMicCanvasGroup"
+    ],
+    "WithOutFields": [],
+    "WithProperties": [],
+    "WithOutProperties": []
+  },
+  {
+    "AssemblyName": "VRC.UI.UserEventPrefab",
+    "AssemblyFile": null,
+    "Type": null,
+    "WithMethods": [],
+    "WithOutMethods": [],
+    "Properties": [],
+    "WithFields": [
+      "userEventPrefab"
+    ],
+    "WithOutFields": [],
+    "WithProperties": [],
+    "WithOutProperties": []
+  },
+  {
+    "AssemblyName": "VRC.UI.ContextSelector",
+    "AssemblyFile": null,
+    "Type": null,
+    "WithMethods": [],
+    "WithOutMethods": [],
+    "Properties": [],
+    "WithFields": [
+      "ExpandToMainMenu",
+      "SafetyButtons"
+    ],
+    "WithOutFields": [],
+    "WithProperties": [],
+    "WithOutProperties": []
+  },
     {
     "AssemblyName": "AvtarCarousel",
     "AssemblyFile": null,
